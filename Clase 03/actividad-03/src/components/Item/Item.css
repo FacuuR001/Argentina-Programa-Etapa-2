@@ -1,0 +1,35 @@
+.item-contendor {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    height: calc(100vh - 80px);
+}
+
+.img-contenedor {
+    width: 1100px;
+}
+
+.img {
+    width: 100%;
+}
+
+.caractesristicas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.comprar {
+    margin-top: 1rem;
+    padding: 1rem 2rem;
+    color: #fff;
+    background-color: #0078b6;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.comprar:hover {
+    background-color: #0e6a98;
+}

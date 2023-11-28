@@ -1,0 +1,25 @@
+.contenedor-principal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.campo {
+  width: 100% !important;
+}
+
+#modal-modal-title {
+  text-align: center;
+}
+
+.btn-submit {
+  text-align: center !important;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
